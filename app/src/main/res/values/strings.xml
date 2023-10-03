@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">BottomNav With TabLayout</string>
+    <string name="menu">Menu</string>
+    <string name="explore">Explore</string>
+    <string name="shop">Shop</string>
+    <string name="point">Point</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
